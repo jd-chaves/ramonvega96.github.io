@@ -1,7 +1,9 @@
 module.exports = {
     "env": {
         "browser": true,
-        "es6": true
+        "commonjs": true,
+        "es6": true,
+        "jquery": true
     },
 
     "extends": "eslint:recommended",
@@ -13,25 +15,25 @@ module.exports = {
         "sourceType": "module"
     },
     "plugins": [
-        "react"
+    "react"
     ],
     "rules": {
         "indent": [
-            "error",
-            2
+        "error",
+        2
         ],
         "no-console":"off",
         "linebreak-style": [
-            "error",
-            "unix"
+        "error",
+        "unix"
         ],
         "quotes": [
-            "error",
-            "double"
+        "error",
+        "double"
         ],
         "semi": [
-            "error",
-            "always"
+        "error",
+        "always"
         ]
     }
 };
