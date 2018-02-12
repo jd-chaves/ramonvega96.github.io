@@ -3,4 +3,4 @@ function myF(){
   $(".checkmark").toggle();
 }
 
-setTimeout(function() { myF(); }, 2000);
+setTimeout(function() { myF(); }, 3000);
