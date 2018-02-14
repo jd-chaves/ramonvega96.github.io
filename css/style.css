@@ -30,7 +30,7 @@ body{
   width: 80%;
   max-width: 960px;
   height: 190px;
-  margin-left: 120px;
+  margin-left: 30px;
   position: relative;
   margin-top: 8px;
   font-family: "cabin";
@@ -182,7 +182,7 @@ body{
 
 .circle-loader-checked {
   margin: 0 0 30px 10px;
-  border: 2px solid rgba(0, 0, 0, 0.2);
+  border: 3px solid rgba(0, 0, 0, 0.2);
   border-left-color: #5cb85c;
   animation-name: loader-spin;
   animation-duration: 1s;
@@ -202,7 +202,7 @@ body{
 
 .circle-loader {
   margin: 0 0 30px 10px;
-  border: 2px solid rgba(0, 0, 0, 0.2);
+  border: 3px solid rgba(0, 0, 0, 0.2);
   border-left-color: #5cb85c;
   animation-name: loader-spin;
   animation-duration: 1s;
@@ -241,8 +241,8 @@ body{
   height: 2em;
   width: 1em;
   transform-origin: left top;
-  border-right: 2px solid #5cb85c;
-  border-top: 2px solid #5cb85c;
+  border-right: 3px solid #5cb85c;
+  border-top: 3px solid #5cb85c;
   content: '';
   left: 0.8em;
   top: 2em;
