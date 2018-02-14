@@ -1,3 +1,5 @@
+"use strict";
+
 var map = AmCharts.makeChart( "chartdiv", {
   "type": "map",
   "theme": "light",
