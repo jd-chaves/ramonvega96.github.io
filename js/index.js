@@ -13,7 +13,7 @@ $.getJSON("./docs/quotes.json", function (data) {
   $.each(data, function (index, value) {
     i = i + 1;
     if(i === quoteId){
-      $(".cookie-quote").text(value.quote);
+      $(".cookie-quote").text("\"" + value.quote + "\"");
     }    
   });
 });
