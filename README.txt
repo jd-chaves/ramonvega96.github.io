@@ -17,4 +17,4 @@ Cosas que no son mías:
 	- https://codepen.io/vajkri/pen/NxzZwL?editors=1100
 	- https://codepen.io/scottloway/pen/zqoLyQ
 	- https://codepen.io/anon/pen/aqWEod
-	- https://codepen.io/anon/pen/GQEjmQ
+	- https://codemyui.com/floating-font-awesome-rounded-corner-social-icons/
