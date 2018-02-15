@@ -17,3 +17,4 @@ $.getJSON("./docs/quotes.json", function (data) {
     }    
   });
 });
+
