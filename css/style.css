@@ -26,6 +26,8 @@ body{
   overflow-y: scroll;
 }
 
+/* CSS gráfico Skills */
+
 .skills {
   width: 80%;
   max-width: 960px;
@@ -180,6 +182,8 @@ body{
   }
 }
 
+/* CSS gadgets de carga sección Academics */
+
 .circle-loader-checked {
   margin: 0 0 30px 10px;
   border: 3px solid rgba(0, 0, 0, 0.2);
@@ -280,7 +284,8 @@ body{
   }
 }
 
-/* MAP */
+/* CSS mapa sección Hobbies */
+
 #chartdiv {
   width: 100%;
   height: 180px;
@@ -370,97 +375,7 @@ body{
 }
 }
 
-.gamebut {
-  font-family: Cabin;
-  font-size: 24px;
-  font-weight: 500;
-  line-height: 26.4px;
-  color: white !important;
-}
-
-.b1 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:45px !important;  
-  border:0px solid transparent !important;
-  background: #11998e;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-.b2 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:10px !important;
-  border:0px solid transparent !important;
-  background: #00F260;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-.b3 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:10px !important;
-  border:0px solid transparent !important;
-  background: #000000;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-.b4 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:45px !important;
-  border:0px solid transparent !important;
-  background: #283c86;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-.b5 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:10px !important;
-  border:0px solid transparent !important;
-  background: #DCE35B;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #45B649, #DCE35B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-.b6 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:10px !important;
-  border:0px solid transparent !important;
-  background: #67B26F;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4ca2cd, #67B26F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-.b7 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:45px !important;
-  border:0px solid transparent !important;
-  background: #a80077;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #66ff00, #a80077);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #66ff00, #a80077); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-.b8 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:10px !important;
-  border:0px solid transparent !important;
-  background: #f79d00;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #64f38c, #f79d00);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #64f38c, #f79d00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-.b9 {
-  width:75px !important;
-  height:35px !important;
-  margin-left:10px !important;
-  border:0px solid transparent !important;
-  background: #56ab2f;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
+/* CSS gadgets pra contacto */
 
 .wrapper a:nth-child(1) {
   color: #1DA1F2;

@@ -1,3 +1,8 @@
+
+//Este archivo no es de mi autoría. Lo copié de internet y lo modifiqué.
+//Acá Ubiqué los nombres y las corrdenadas de los lugares que he visitado.
+//Este archivo lo referiencio desde mi index.html
+
 "use strict";
 
 var map = AmCharts.makeChart( "chartdiv", {
