@@ -1,20 +1,22 @@
-Este es el primer proyecto que desarrollÈ para el curso "Desarrollo con tecnologÌas web".
-Es un sitio web con informaciÛn relacionada a mi perfil profesional, a mis gustos, preferencias
-y experiencia. En la primera secciÛn, hablo de quien soy y los medios a travÈs de los cuales me 
-pueden contactar. AsÌ mismo, expongo mis tech skills. Un poco m·s abajo, hablo de mi experiencia
+Este es el primer proyecto que desarroll√© para el curso "Desarrollo con tecnolog√≠as web".
+Es un sitio web con informaci√≥n relacionada a mi perfil profesional, a mis gustos, preferencias
+y experiencia. En la primera secci√≥n, hablo de quien soy y los medios a trav√©s de los cuales me 
+pueden contactar. As√≠ mismo, expongo mis tech skills. Un poco m√°s abajo, hablo de mi experiencia
 laboral dentro de la universidad, y de forma aleatoria, le regalo una frase a la persona que visita
-la p·gina (una frase de galleta de la fortuna). Finalmente hablo de mis hobbies y le muestro a la
-persona que visita la p·gina, los lugares del mundo en los que he tenido la oportunidad de estar
-adem·s de una foto.
+la p√°gina (una frase de galleta de la fortuna). Finalmente hablo de mis hobbies y le muestro a la
+persona que visita la p√°gina, los lugares del mundo en los que he tenido la oportunidad de estar
+adem√°s de una foto.
 
-La gr·fica en la que muestro mis teck skills, las animaciones y logos de la secciÛn de contacto,
+La gr√°fica en la que muestro mis teck skills, las animaciones y logos de la secci√≥n de contacto,
 los gadgets de carga junto a los escudos del colegio y de la universidad y el mapa de la parte inferior,
-no son de mi autorÌa. Sin embargo, los tuve que modificar para acoplarlos a la p·gina web.
-A continuaciÛn los referencio.
+no son de mi autor√≠a. Sin embargo, los tuve que modificar para acoplarlos a la p√°gina web.
+A continuaci√≥n los referencio.
 
 
-Cosas que no son mÌas:
+Cosas que no son m√≠as:
 	- https://codepen.io/vajkri/pen/NxzZwL?editors=1100
 	- https://codepen.io/scottloway/pen/zqoLyQ
 	- https://codepen.io/anon/pen/aqWEod
 	- https://codemyui.com/floating-font-awesome-rounded-corner-social-icons/
+	
+El sitio web lo desarroll√© haciendo uso de html5, css, javascript y bootstrap. Cuenta con licencia MIT.
